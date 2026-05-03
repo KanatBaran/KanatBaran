@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran Kanat</h1>
-<h3 align="center">I am a student studying Computer Engineering.</h3>
+<h3 align="center">I am a Computer Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanatbaran&label=Profile%20views&color=0e75b6&style=flat" alt="kanatbaran" /> </p>
 
